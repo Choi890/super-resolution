@@ -1,0 +1,7 @@
+tensorflow>=2.16,<2.18
+numpy>=1.26,<2.0
+Pillow>=10.0
+opencv-python>=4.9
+matplotlib>=3.8
+scikit-image>=0.22
+tqdm>=4.66

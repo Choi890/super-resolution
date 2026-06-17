@@ -1,0 +1,15 @@
+__pycache__
+.ipynb_checkpoints
+.DS_Store
+*.pyc
+.vscode/
+.venv/
+venv/
+outputs/
+checkpoints/
+logs/
+*.keras
+*.ckpt*
+*.weights.h5
+img_align_celeba/
+processed/
